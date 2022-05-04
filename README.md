@@ -1,1 +1,2 @@
-# projects
+# Projects
+Project outline
